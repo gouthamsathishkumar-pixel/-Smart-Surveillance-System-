@@ -37,7 +37,7 @@ The **Smart Surveillance System** aims to make security monitoring smarter by co
 
 Visit the deployed application:
 
-**[Smart Surveillance System — Live Website](YOUR_NETLIFY_LIVE_LINK)**
+**[Smart Surveillance System — Live Website](https://lucky-brioche-ac6782.netlify.app)**
 
 ## 💻 Run the Project Locally
 
